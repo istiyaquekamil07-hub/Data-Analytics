@@ -168,15 +168,15 @@ The Power BI report contains three pages:
 
 #### Executive Overview
 
-[Executive Overview](/screenshots/executive_overview.PNG)
+![Executive Overview](screenshots/executive_overview.PNG)
 
 #### Performance Analysis
 
-![Performance Analysis](/screenshots/performance_analysis.PNG)
+![Performance Analysis](screenshots/performance_analysis.PNG)
 
 #### Profitability & Business Insights
 
-![Profitability & Business Insights](/screenshots/profitability_insights.PNG)
+![Profitability & Business Insights](screenshots/profitability_insights.PNG)
 
 
 ## 8. How to Reproduce the Analysis
