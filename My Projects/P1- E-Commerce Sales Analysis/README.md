@@ -168,16 +168,15 @@ The Power BI report contains three pages:
 
 #### Executive Overview
 
-[Executive Overview](Data Analytics/My Projects/P1- E-Commerce Sales Analysis
-/screenshots/executive_overview.png)
+[Executive Overview](/screenshots/executive_overview.PNG)
 
 #### Performance Analysis
 
-![Performance Analysis](screenshots/performance_analysis.png)
+![Performance Analysis](/screenshots/performance_analysis.PNG)
 
 #### Profitability & Business Insights
 
-![Profitability & Business Insights](screenshots/profitability_insights.png)
+![Profitability & Business Insights](/screenshots/profitability_insights.PNG)
 
 
 ## 8. How to Reproduce the Analysis
